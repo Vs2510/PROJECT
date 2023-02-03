@@ -1,0 +1,2 @@
+https://smart-fishfeeder-default-rtdb.firebaseio.com/
+firebase auth key -- x4Vkgz8fI8i7DOVcdjd91DXew7p7QKJGHQIzBY1d

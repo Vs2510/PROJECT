@@ -1,0 +1,9 @@
+https://console.firebase.google.com/u/0/project/smart-system-7175b/database/smart-system-7175b-default-rtdb/data/~2F
+  firebase host address
+
+
+database secretes---- smart-system-7175b-default-rtdb	
+YbS8Fn2IBaRH2v9M5A6EVQfISwc6HjdS9q73aQ2C
+
+hosting url --- https://fishfeed-4a227.web.app
+hosting address ----- https://console.firebase.google.com/u/0/project/smart-system-7175b/database/smart-system-7175b-default-rtdb/data/~2F
