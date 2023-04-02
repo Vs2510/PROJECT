@@ -50,6 +50,7 @@ countRef.on('value', function(snapshot) {
     console.log(count)
 });
 
+
 function feednow() {
     firebase.database().ref().update({
         feednow: 1

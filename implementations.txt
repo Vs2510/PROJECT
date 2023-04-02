@@ -1,0 +1,5 @@
+Future implementations
+
+Automated food facility
+what if power goes ?
+what if motor does not rotates?
